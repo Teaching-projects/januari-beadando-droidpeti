@@ -36,7 +36,7 @@ if valasz == valaszok[0]:
         teglaV = (a*b*c)
         print(teglaV, "cm^3", "\n",
         teglaV/1000, "dm^3", "\n",
-        teglaV/1000000, "m^2")
+        teglaV/1000000, "m^3")
 
     #felszín számítása
     if teglavalasz == valaszok[1]:
