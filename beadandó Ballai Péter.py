@@ -17,9 +17,9 @@ while valasz not in valaszok:
 if valasz == valaszok[0]:
 
     #oldalak bekérése
-    a = float(input("add meg a téglatest a oldalát cm-ben: "))
-    b = float(input("add meg a téglatest b oldalát cm-ben: "))
-    c = float(input("add meg a téglatest c oldalát cm-ben: "))
+    a = float(input("add meg a téglatest a élét cm-ben: "))
+    b = float(input("add meg a téglatest b élét cm-ben: "))
+    c = float(input("add meg a téglatest c élét cm-ben: "))
 
     #ha egy kocka írja ki, hogy ez egy kocka
     if a == b == c:
