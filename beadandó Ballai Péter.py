@@ -68,5 +68,5 @@ if valasz == valaszok[1]:
         gombA = (4*r**2*math.pi)
         print(gombA, "cm^2", "\n",
         gombA/100, "dm^2", "\n", 
-        gombA/10000, "m^3")
+        gombA/10000, "m^2")
     print("a gömb átmérője: ", r*2, "cm")
